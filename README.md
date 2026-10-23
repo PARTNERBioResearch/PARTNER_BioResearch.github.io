@@ -1,4 +1,4 @@
-# P.A.R.T.N.E.R. BioResearch website refresh
+# PARTNER BioResearch website refresh
 
 Accelerator-ready static website copy and presentation aligned with the current product stage.
 

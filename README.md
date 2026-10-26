@@ -20,6 +20,6 @@ Accelerator-ready static website copy and presentation aligned with the current 
 
 ## Publish
 
-Replace `index.html`, `styles.css`, and `script.js` in `PARTNERBioResearch/PARTNER_BioResearch.github.io` with the files in this directory. Confirm the LinkedIn company URL and `info@partnerbioresearch.org` mailbox before merging.
+Replace `index.html`, `styles.css`, and `script.js` in `PARTNERBioResearch/PARTNER_BioResearch.github.io` with the files in this directory. Confirm the LinkedIn company URL and `contact@partner research.org` mailbox before merging.
 
 Also publish `branding.css`, `partner-bioresearch-logo.jpg`, and `CNAME`. The site includes the original LinkedIn video embed from the prior landing page.
